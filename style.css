@@ -1,0 +1,27 @@
+.header{
+    background-color: white;
+    padding: 20px 0;
+    border-bottom:2px solid rgb(200,200,200);
+}
+a:visited {
+    color:rgb(4, 20, 235);
+    text-decoration: none;
+  }
+  a:hover {
+    color: rgba(236, 6, 6, 0.911);
+    text-decoration: none;
+  }
+  h1{
+    text-align: center;
+  }
+  h2{
+      font-size: 25px;
+      text-align: center;
+  }
+  p{
+      font-size: 18px;
+  }
+
+.mini_mapa{
+      text-align: center;
+  }
